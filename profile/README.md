@@ -1,4 +1,4 @@
-# LightOS Hybrid
+# TwilightOS*
 
 ## Important Links
 - [Hybrid Mode Setup Guide](https://docs.google.com/document/d/1aDvuVqibzC8x0FpuHaJw5llYmERLgU8CwcEHg9hHZqc/edit?tab=t.0)
