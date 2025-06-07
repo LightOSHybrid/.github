@@ -7,7 +7,7 @@
 
 ## Released:
 - [Passes](https://github.com/vandamd/passes): An app for the Light Phone III to store codes.
-- [Weather]([https://github.com/vandamd/passes](https://github.com/vandamd/weather)): Weather for the LP III using [Open-meteo](https://open-meteo.com/).
+- [Weather](https://github.com/vandamd/weather): Weather for the LP III using [Open-meteo](https://open-meteo.com/).
 
 ## In Progress:
 - [ ] Spotify
