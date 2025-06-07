@@ -7,16 +7,17 @@
 
 ## Released:
 - [Passes](https://github.com/vandamd/passes): An app for the Light Phone III to store codes.
+- [Weather]([https://github.com/vandamd/passes](https://github.com/vandamd/weather)): Weather for the LP III using [Open-meteo](https://open-meteo.com/).
 
 ## In Progress:
 - [ ] Spotify
 - [ ] Tetris
 
-## Popular Ideas (Updated 5/22):
+## Popular Ideas (Updated 06/07):
 - [x] Passes/Tickets Tool
+- [x] Weather
 - [ ] _Spotify/Apple Music Tool_ (in progress)
 - [ ] Email Client
-- [ ] Weather
 - [ ] Audiobooks
 - [ ] Beeper/WhatsApp
 - [ ] Notes (Improved)
